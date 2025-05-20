@@ -1,12 +1,43 @@
-# React + Vite
+# 💼 Hackathon 2025 – Student Banking Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend web app developed during the **Poalim Hackathon 2025**, aimed at improving banking experiences for students through a clean, accessible, and engaging digital interface.
 
-Currently, two official plugins are available:
+## 🚀 Project Goal
+To empower students with smarter banking tools, improved visual experience, and simplified access to financial services – tailored for the young generation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- **Framework:** React
+- **Build Tool:** Vite
+- **Languages:** JavaScript, HTML, CSS
+- **Design:** Custom UI + Canva-based presentation
 
-## Expanding the ESLint configuration
+## 🧩 Features
+- Interactive interface for student banking
+- Educational & promotional banners
+- Integrated components: navigation, CTA sections, responsive layout
+- Optimized for desktop use
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎬 Demo Video
+👉 _Coming soon (to be added in LinkedIn post)_  
+Want to see it in action? Stay tuned!
+
+## 📁 Folder Structure
+
+
+## 🧪 How to Run Locally
+
+1. Clone this repository:
+```bash
+git clone https://github.com/therealLaurenMalka/hackathon-2025-student-banking.git
+cd hackathon-2025-student-banking
+
+
+npm install
+
+
+npm run dev
+
+## 👩‍💻 Built With Love By  
+Lauren Malka 💜  
+_Part of a wonderful team of creators during the Poalim Hackathon 2025_
+
